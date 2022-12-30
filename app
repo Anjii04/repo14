@@ -1,5 +1,5 @@
 <project>
-  <modelVersion>4.0.0</modelVersion>
+  <modelVersion>3.8.6</modelVersion>
  
   <parent>
     <groupId>com.mycompany.app</groupId>
