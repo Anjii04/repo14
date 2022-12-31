@@ -1,13 +1,13 @@
 <project>
-  <modelVersion>3.8.6</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
  
   <parent>
     <groupId>com.mycompany.app</groupId>
     <artifactId>my-app</artifactId>
-    <version>1</version>
+    <version>1.0.0</version>
   </parent>
  
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-module</artifactId>
-  <version>1</version>
+  <version>1.0.0</version>
 </project>
